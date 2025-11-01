@@ -8,7 +8,8 @@ This project bridges the communication gap by translating physical gestures into
 
 ## ⚙️ Components Used
 - Arduino Uno
-- 3 Flex Sensors (for finger movement detection)  
+- 3 × Flex Sensors (for finger bend detection)
+- 3 × 10 kΩ resistors
 - DFPlayer Mini (MP3 Sound Module)  
 - Speaker (8Ω, 2W)  
 - LCD Display I2C (16x2)  
