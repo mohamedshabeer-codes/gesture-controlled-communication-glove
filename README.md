@@ -32,7 +32,7 @@ This project bridges the communication gap by translating physical gestures into
 ---
 
 ## 👥 Team Members
-- **Mohamed Shabeer** 9Myself: Took care of the overall design of the project, programmed the microcontroller, and developed the circuit schematic for the system, ensuring smooth integration between hardware and software.
+- **Mohamed Shabeer** (Myself): Took care of the overall design of the project, programmed the microcontroller, and developed the circuit schematic for the system, ensuring smooth integration between hardware and software.
 
 - **Amroo Mohideen N & Naveeth Aalam**: Handled the hardware assembly, soldering, and integration, ensuring a well-built and functional prototype.
 
